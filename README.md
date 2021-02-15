@@ -1,5 +1,5 @@
 ### Hi everybody 👋
-======
+---
 
 <!--
 **omar2308/omar2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Omar Fernandez. You can reach me at https://twitter.com/omar2308
 
 🔭 I'm currently working on full stack and financial projects
 

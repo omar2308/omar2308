@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 🔭 I'm currently working on full stack and financial projects
 
 ![Love Open Source](http://img.shields.io/badge/Open%20Source-%E2%9D%A4-green)
-![Twitter](https://twitter.com/intent/follow?screen_name=omarfl7)
+![Twitter](https://img.shields.io/twitter/follow/omarfl7.svg?label=Twitter)
 
 <img src="https://github-readme-stats.vercel.app/api?username=omar2308&show_icons=true&hide_title=true" />

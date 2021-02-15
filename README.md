@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi everybody 👋
+==================
 
 <!--
 **omar2308/omar2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I'm currently working on full stack and financial projects
+
+![Love Open Source](http://img.shields.io/badge/Open%20Source-%E2%9D%A4-green)
+![Twitter](https://twitter.com/intent/follow?screen_name=omarfl7)
+
+<img src="https://github-readme-stats.vercel.app/api?username=omar2308&show_icons=true&hide_title=true" />

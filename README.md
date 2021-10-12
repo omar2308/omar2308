@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Omar Fernandez. You can reach me at https://twitter.com/omar2308
+I'm Omar Fernandez. You can reach me at https://twitter.com/omarfl7
 
 🔭 I'm currently working on full stack and financial projects
 
